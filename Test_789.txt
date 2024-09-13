@@ -1,1 +1,2 @@
 File created in git UI to perform pull.
+Added a line from feature1 branch.
